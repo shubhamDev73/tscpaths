@@ -1,6 +1,5 @@
 {
   "name": "tscpaths",
-  "version": "0.0.9",
   "description": "Replace absolute paths to relative paths after typescript compilation",
   "main": "cjs/index.js",
   "module": "lib/index.js",
@@ -23,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/joonhocho/tscpaths.git"
+    "url": "https://github.com/shubhamDev73/tscpaths.git"
   },
   "keywords": [
     "typescript",
